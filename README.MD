@@ -140,7 +140,7 @@ Buka browser dan masuk ke:
 5. Selesai! Kamu akan dapat link publik, misalnya:
 
    ```
-   https://timestamp-microservice-romi.vercel.app
+   https://timestamp-microservice-voad.vercel.app
    ```
 
 ---
@@ -156,7 +156,7 @@ Buka browser dan masuk ke:
 
 ## 👨‍💻 Kontributor
 
-* **Nama:** Romi
+* **Nama:** Muhromin
 * **Project:** FreeCodeCamp - Timestamp Microservice
 * **Jurusan:** IT
 
